@@ -1,6 +1,6 @@
 {
   "name": "recursive-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Load json/js configuration from files, merge with ENV_VARIABLES or CLI parameters",
   "main": "src/index.js",
   "repository": "git@github.com:MediaSocialNetwork/recursive-config.git",

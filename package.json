@@ -1,9 +1,9 @@
 {
-  "name": "config-loader",
+  "name": "recursive-config",
   "version": "1.0.0",
   "description": "Load json/js configuration from files, merge with ENV_VARIABLES or CLI parameters",
   "main": "src/index.js",
-  "repository": "git@github.com:MediaSocialNetwork/config-loader.git",
+  "repository": "git@github.com:MediaSocialNetwork/recursive-config.git",
   "author": "LongLH <d@dapps.me>",
   "license": "MIT",
   "devDependencies": {

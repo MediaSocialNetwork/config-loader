@@ -24,7 +24,7 @@ function load({ defaults = {}, file, respectENV = false, defaultENV }) {
     output = defautsDeep(args, output);
   }
 
-  return output;
+  return deepFreeze(output);
 }
 
 module.exports = {
